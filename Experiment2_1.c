@@ -1,3 +1,4 @@
+//given two numbers and calculating sum,difference,multiplication and division
 #include<stdio.h>
 
 int main(){
