@@ -29,8 +29,7 @@ int main(){
     
     return 0;
 }
-//bubble sort
-//quick sort
+
 
 
 
